@@ -1,0 +1,9 @@
+{
+  "run_id": "20250923-093422",
+  "probe_test_acc": 0.1912,
+  "jepa_pred_loss_snapshot": 2.123685598373413,
+  "homeostasis_loss_snapshot": 0.14999783039093018,
+  "isotropy_loss_snapshot": 0.0038554584607481956,
+  "firing_rate_snapshot": 2.172258291466278e-06,
+  "fr_target": 0.15
+}
